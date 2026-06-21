@@ -1,5 +1,4 @@
 # Customer_trends_analysis
-# Customer Shopping Behavior Analysis
 
 ## Business Problem
 A retail company wants to understand customer shopping behavior to improve sales, customer satisfaction, and loyalty.
